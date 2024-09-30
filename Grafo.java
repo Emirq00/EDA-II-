@@ -22,6 +22,7 @@ public class Grafo {
         // Imprimir los vértices y las aristas
         System.out.println("Vértices: " + getVertices(graph));
         System.out.println("Aristas: " + getEdges(graph));
+        System.out.println("Prueba github");
     }
 
     // Método para agregar un vértice al grafo
